@@ -6,7 +6,70 @@
 **作者:** Chun Wen  
 
 ## 简介
-IASM（Interpretive Authority Shift Model）是一个用于分析短文本结构的解释模型。它将看似感性的文本（如三行情书、创伤叙事）抽象为一套极其精密的系统级事件：描述文本如何通过“局部语义断裂（SD）”与“高阶概念系统介入（HOCS）”完成意义重构或残差保留。
+
+Most analyses of short texts focus on style, metaphor, imagery, or emotional tone.  
+IASM starts from a different question:
+
+> Why can certain texts make readers suddenly accept impossible logic, emotional contradictions, or unresolved fractures as meaningful?
+
+IASM proposes that many short texts operate by redistributing **interpretive authority**.
+
+A text first establishes a local semantic system — ordinary logic, causality, and reader expectations.  
+It then introduces a structural discontinuity: a point where the local system can no longer fully explain itself.
+
+At this moment, a higher-order conceptual system (such as love, fate, eternity, belief, loneliness, or desire) intervenes and takes over interpretive authority.
+
+This intervention can produce two different outcomes:
+
+- **Closure**: the discontinuity is absorbed into a higher-order meaning system.
+- **Residuality**: the discontinuity remains unresolved and continues to exist as structural tension.
+
+IASM v0.1 is a minimal interpretive model designed to describe this process in short-form texts.
+
+It is not intended as:
+- a universal language theory,
+- a complete cognitive model,
+- or a general theory of literature.
+
+Instead, it is a frozen minimal framework for analyzing how texts reorganize meaning through structural discontinuity and interpretive authority transfer.
+
+---
+
+大多数短文本分析，通常聚焦于：
+风格、隐喻、意象或情绪表达。
+
+IASM 的出发点不同，它关注的是另一个问题：
+
+> 为什么某些文本能够让读者突然接受“不可能的逻辑”“无法解决的矛盾”甚至“持续存在的断裂”，并依然觉得它成立、甚至动人？
+
+IASM 认为，许多短文本的核心机制，其实是“解释权”的重新分配。
+
+文本首先会建立一个局部语义系统（LSS）：
+即日常逻辑、经验规则、因果关系与读者预期。
+
+随后，它会制造一个结构断裂（SD）：
+局部系统开始无法自我解释，原有逻辑出现失效。
+
+这时，一个高阶概念系统（HOCS）开始介入：
+例如爱、命运、永恒、孤独、欲望、信仰等。
+
+它们接管解释权，并重新定义断裂的意义。
+
+这种介入通常会产生两种结果：
+
+- **吸收型（Closure）**：断裂被高阶概念覆盖，生成闭合意义。
+- **非吸收型（Residual）**：断裂被保留，形成持续存在的结构残差。
+
+IASM v0.1 是一个用于描述这一过程的最小解释模型。
+
+它不试图成为：
+- 普适语言理论，
+- 完整认知模型，
+- 或文学总理论。
+
+它只是一个被冻结的最小框架，用于分析：
+文本如何通过“结构断裂”与“解释权转移”重新组织意义。
+
 
 简单来说：**浪漫的本质，是高阶系统为了你修改了底层规则；而绝望的本质，是系统完美运转，却唯独将你隔离在逻辑的废墟中。**
 
