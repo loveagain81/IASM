@@ -90,4 +90,4 @@ IASM v0.1 是一个用于描述这一过程的最小解释模型。
 
 ## 引用与开源协议
 本理论框架遵循 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)（署名-非商业性使用）协议开源。
-*   **建议引用格式:** Chun Wen. (2026). *IASM: Interpretive Authority Shift Model v0.1*. GitHub Repository. [当前仓库链接]
+*   **建议引用格式:** Chun Wen. (2026). *IASM: Interpretive Authority Shift Model v0.1*. GitHub Repository. [(https://github.com/loveagain81/IASM-Interpretive-Authority-Shift-Model)]
