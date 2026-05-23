@@ -88,6 +88,10 @@ IASM v0.1 是一个用于描述这一过程的最小解释模型。
 1.  **吸收型 (Closure System):** 断裂被强行闭合（通常生成“浪漫/升华”体验）。
 2.  **非吸收型 (Residual System):** 断裂原貌保留，形成系统残差（通常生成“致郁/无解”的坍塌感）。
 
+## 学术存档与引用
+- **Concept DOI:** [10.5281/zenodo.20347318](https://doi.org/10.5281/zenodo.20347318)
+- **建议引用格式:** Chun Wen. (2026). *IASM: Interpretive Authority Shift Model v0.1*. Zenodo.
+- 
 ## 引用与开源协议
 本理论框架遵循 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)（署名-非商业性使用）协议开源。
 *   **建议引用格式:** Chun Wen. (2026). *IASM: Interpretive Authority Shift Model v0.1*. GitHub Repository. [(https://github.com/loveagain81/IASM-Interpretive-Authority-Shift-Model)]
